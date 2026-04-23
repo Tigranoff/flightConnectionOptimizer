@@ -116,3 +116,47 @@ class FlightGraph:
                     queue.append((neighbor, hops + 1))
 
         return visited
+
+        # Approach (simplified brute-force):
+        # 1. Build an undirected view of the graph (a -> b means a and b are linked).
+        # 2. Count the number of connected components of the full graph.
+        # 3. For every airport, "remove" it and recount components on the rest.
+        # 4. If removing an airport increases the component count, that airport is
+        #    an articulation point (its removal disconnects the graph).
+        #
+        # Time complexity: O(V * (V + E)) because we run a BFS for every airport.
+        # Space complexity: O(V + E) for the undirected neighbor map and BFS structures.
+    def find_articulation_points(self):
+        undirected = {airport: set() for airport in self.adj}
+        for origin, edges in self.adj.items():
+            for edge in edges:
+                destination = edge[0]
+                undirected[origin].add(destination)
+                undirected[destination].add(origin)
+
+        def count_components(excluded):
+            visited = set()
+            components = 0
+            for start in undirected:
+                if start == excluded or start in visited:
+                    continue
+                components += 1
+                queue = deque([start])
+                visited.add(start)
+                while queue:
+                    node = queue.popleft()
+                    for neighbor in undirected[node]:
+                        if neighbor == excluded or neighbor in visited:
+                            continue
+                        visited.add(neighbor)
+                        queue.append(neighbor)
+            return components
+
+        base_components = count_components(None)
+
+        articulation_points = set()
+        for airport in undirected:
+            if count_components(airport) > base_components:
+                articulation_points.add(airport)
+
+        return articulation_points
