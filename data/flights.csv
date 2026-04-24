@@ -1,177 +1,177 @@
 origin,destination,cost,duration_minutes
-Amsterdam Schiphol (AMS),Stockholm Arlanda (ARN),81,202
-Amsterdam Schiphol (AMS),Paris Charles de Gaulle (CDG),285,348
-Amsterdam Schiphol (AMS),Düsseldorf (DUS),279,209
-Amsterdam Schiphol (AMS),Frankfurt (FRA),115,162
-Amsterdam Schiphol (AMS),Geneva (GVA),260,109
-Amsterdam Schiphol (AMS),Hamburg (HAM),320,203
-Amsterdam Schiphol (AMS),Helsinki Vantaa (HEL),257,293
-Amsterdam Schiphol (AMS),London Heathrow (LHR),168,210
-Amsterdam Schiphol (AMS),Lyon-Saint-Exupéry (LYS),248,224
-Amsterdam Schiphol (AMS),Madrid Barajas (MAD),317,205
-Amsterdam Schiphol (AMS),Manchester (MAN),68,130
-Amsterdam Schiphol (AMS),Porto Francisco Sá Carneiro (OPO),253,108
-Amsterdam Schiphol (AMS),Oslo Gardermoen (OSL),318,82
-Stockholm Arlanda (ARN),Amsterdam Schiphol (AMS),205,125
-Stockholm Arlanda (ARN),Copenhagen (CPH),304,257
-Athens International (ATH),Rome Fiumicino (FCO),220,344
-Athens International (ATH),Istanbul (IST),182,256
-Barcelona El Prat (BCN),Stockholm Arlanda (ARN),242,279
-Barcelona El Prat (BCN),Brussels (BRU),115,133
-Barcelona El Prat (BCN),Dublin (DUB),200,237
-Barcelona El Prat (BCN),Rome Fiumicino (FCO),278,176
-Barcelona El Prat (BCN),Frankfurt (FRA),290,114
-Barcelona El Prat (BCN),Geneva (GVA),222,154
-Barcelona El Prat (BCN),Hamburg (HAM),150,357
-Barcelona El Prat (BCN),Helsinki Vantaa (HEL),302,69
-Barcelona El Prat (BCN),Istanbul (IST),205,84
-Barcelona El Prat (BCN),London Gatwick (LGW),327,97
-Barcelona El Prat (BCN),Lisbon Humberto Delgado (LIS),244,133
-Barcelona El Prat (BCN),Lyon-Saint-Exupéry (LYS),149,231
-Barcelona El Prat (BCN),Manchester (MAN),316,348
-Barcelona El Prat (BCN),Nice Côte d'Azur (NCE),213,151
-Barcelona El Prat (BCN),Paris Orly (ORY),229,128
-Barcelona El Prat (BCN),Oslo Gardermoen (OSL),262,369
-Barcelona El Prat (BCN),Bucharest Henri Coandă (OTP),114,207
-Barcelona El Prat (BCN),Vienna (VIE),273,179
-Barcelona El Prat (BCN),Warsaw Chopin (WAW),175,285
-Berlin Brandenburg (BER),Paris Charles de Gaulle (CDG),187,161
-Berlin Brandenburg (BER),Copenhagen (CPH),70,140
-Budapest Ferenc Liszt (BUD),Frankfurt (FRA),275,303
-Budapest Ferenc Liszt (BUD),Istanbul (IST),115,140
-Budapest Ferenc Liszt (BUD),Vienna (VIE),245,335
-Paris Charles de Gaulle (CDG),Berlin Brandenburg (BER),68,272
-Paris Charles de Gaulle (CDG),Brussels (BRU),79,103
-Paris Charles de Gaulle (CDG),Düsseldorf (DUS),137,342
-Paris Charles de Gaulle (CDG),Rome Fiumicino (FCO),241,352
-Paris Charles de Gaulle (CDG),Frankfurt (FRA),112,128
-Paris Charles de Gaulle (CDG),Helsinki Vantaa (HEL),286,313
-Paris Charles de Gaulle (CDG),London Heathrow (LHR),268,330
-Paris Charles de Gaulle (CDG),Lisbon Humberto Delgado (LIS),48,113
-Paris Charles de Gaulle (CDG),Lyon-Saint-Exupéry (LYS),104,350
-Paris Charles de Gaulle (CDG),Oslo Gardermoen (OSL),235,323
-Paris Charles de Gaulle (CDG),Bucharest Henri Coandă (OTP),45,250
-Paris Charles de Gaulle (CDG),Stuttgart (STR),52,91
-Paris Charles de Gaulle (CDG),Warsaw Chopin (WAW),87,74
-Copenhagen (CPH),Stockholm Arlanda (ARN),299,249
-Copenhagen (CPH),Berlin Brandenburg (BER),124,89
-Dublin (DUB),Munich (MUC),165,163
-Düsseldorf (DUS),London Heathrow (LHR),263,194
-Rome Fiumicino (FCO),Athens International (ATH),238,197
-Rome Fiumicino (FCO),Barcelona El Prat (BCN),191,111
-Rome Fiumicino (FCO),Berlin Brandenburg (BER),238,183
-Rome Fiumicino (FCO),Paris Charles de Gaulle (CDG),96,155
-Rome Fiumicino (FCO),Copenhagen (CPH),155,283
-Rome Fiumicino (FCO),Dublin (DUB),129,279
-Rome Fiumicino (FCO),Edinburgh (EDI),45,340
-Rome Fiumicino (FCO),Frankfurt (FRA),175,136
-Rome Fiumicino (FCO),Helsinki Vantaa (HEL),284,181
-Rome Fiumicino (FCO),Istanbul (IST),175,313
-Rome Fiumicino (FCO),London Heathrow (LHR),196,102
-Rome Fiumicino (FCO),Lyon-Saint-Exupéry (LYS),89,94
-Rome Fiumicino (FCO),Madrid Barajas (MAD),328,98
-Rome Fiumicino (FCO),Manchester (MAN),330,72
-Rome Fiumicino (FCO),Václav Havel Prague (PRG),323,203
-Rome Fiumicino (FCO),Stuttgart (STR),298,119
-Rome Fiumicino (FCO),Vienna (VIE),297,132
-Rome Fiumicino (FCO),Zurich (ZRH),125,75
-Frankfurt (FRA),Amsterdam Schiphol (AMS),207,205
-Frankfurt (FRA),Brussels (BRU),61,288
-Frankfurt (FRA),Budapest Ferenc Liszt (BUD),277,144
-Frankfurt (FRA),Dublin (DUB),302,128
-Frankfurt (FRA),Edinburgh (EDI),143,246
-Frankfurt (FRA),Rome Fiumicino (FCO),111,251
-Frankfurt (FRA),Helsinki Vantaa (HEL),263,158
-Frankfurt (FRA),Istanbul (IST),231,135
-Frankfurt (FRA),London Heathrow (LHR),180,317
-Frankfurt (FRA),Lisbon Humberto Delgado (LIS),57,154
-Frankfurt (FRA),Madrid Barajas (MAD),219,80
-Frankfurt (FRA),Manchester (MAN),214,152
-Frankfurt (FRA),Munich (MUC),322,115
-Frankfurt (FRA),Nice Côte d'Azur (NCE),270,182
-Frankfurt (FRA),Paris Orly (ORY),271,193
-Frankfurt (FRA),Bucharest Henri Coandă (OTP),197,145
-Frankfurt (FRA),Stuttgart (STR),135,97
-Frankfurt (FRA),Vienna (VIE),249,333
-Frankfurt (FRA),Warsaw Chopin (WAW),229,205
-Frankfurt (FRA),Zurich (ZRH),172,299
-Geneva (GVA),Amsterdam Schiphol (AMS),114,106
-Geneva (GVA),Barcelona El Prat (BCN),214,286
-Geneva (GVA),Istanbul (IST),48,145
-Hamburg (HAM),Madrid Barajas (MAD),99,270
-Istanbul (IST),Amsterdam Schiphol (AMS),60,70
-Istanbul (IST),Athens International (ATH),154,262
-Istanbul (IST),Berlin Brandenburg (BER),189,328
-Istanbul (IST),Brussels (BRU),195,237
-Istanbul (IST),Budapest Ferenc Liszt (BUD),157,365
-Istanbul (IST),Copenhagen (CPH),255,65
-Istanbul (IST),Dublin (DUB),66,249
-Istanbul (IST),Düsseldorf (DUS),80,93
-Istanbul (IST),Rome Fiumicino (FCO),305,203
-Istanbul (IST),Geneva (GVA),283,200
-Istanbul (IST),Hamburg (HAM),196,266
-Istanbul (IST),London Gatwick (LGW),104,123
-Istanbul (IST),London Heathrow (LHR),311,183
-Istanbul (IST),Lisbon Humberto Delgado (LIS),222,65
-Istanbul (IST),Lyon-Saint-Exupéry (LYS),310,151
-Istanbul (IST),Manchester (MAN),176,342
-Istanbul (IST),Munich (MUC),297,175
-Istanbul (IST),Nice Côte d'Azur (NCE),68,360
-Istanbul (IST),Paris Orly (ORY),254,206
-Istanbul (IST),Oslo Gardermoen (OSL),147,294
-Istanbul (IST),Bucharest Henri Coandă (OTP),190,326
-Istanbul (IST),Stuttgart (STR),162,154
-Istanbul (IST),Warsaw Chopin (WAW),76,266
-London Heathrow (LHR),Amsterdam Schiphol (AMS),151,281
-London Heathrow (LHR),Stockholm Arlanda (ARN),247,354
-London Heathrow (LHR),Paris Charles de Gaulle (CDG),197,93
-London Heathrow (LHR),Dublin (DUB),113,271
-London Heathrow (LHR),Düsseldorf (DUS),185,285
-London Heathrow (LHR),Rome Fiumicino (FCO),324,348
-London Heathrow (LHR),Frankfurt (FRA),321,142
-London Heathrow (LHR),Istanbul (IST),125,288
-London Heathrow (LHR),Lyon-Saint-Exupéry (LYS),156,192
-London Heathrow (LHR),Madrid Barajas (MAD),237,273
-London Heathrow (LHR),Munich (MUC),293,101
-London Heathrow (LHR),Porto Francisco Sá Carneiro (OPO),235,122
-Lisbon Humberto Delgado (LIS),Paris Charles de Gaulle (CDG),96,161
-Lisbon Humberto Delgado (LIS),Madrid Barajas (MAD),205,213
-Lyon-Saint-Exupéry (LYS),Amsterdam Schiphol (AMS),210,360
-Lyon-Saint-Exupéry (LYS),Barcelona El Prat (BCN),209,219
-Lyon-Saint-Exupéry (LYS),Rome Fiumicino (FCO),329,131
-Madrid Barajas (MAD),Amsterdam Schiphol (AMS),183,306
-Madrid Barajas (MAD),Athens International (ATH),81,306
-Madrid Barajas (MAD),Edinburgh (EDI),274,93
-Madrid Barajas (MAD),Rome Fiumicino (FCO),198,260
-Madrid Barajas (MAD),Frankfurt (FRA),316,281
-Madrid Barajas (MAD),Geneva (GVA),54,205
-Madrid Barajas (MAD),Hamburg (HAM),236,222
-Madrid Barajas (MAD),London Gatwick (LGW),312,283
-Madrid Barajas (MAD),Lisbon Humberto Delgado (LIS),59,155
-Madrid Barajas (MAD),Manchester (MAN),253,264
-Madrid Barajas (MAD),Porto Francisco Sá Carneiro (OPO),283,130
-Madrid Barajas (MAD),Paris Orly (ORY),86,65
-Madrid Barajas (MAD),Bucharest Henri Coandă (OTP),86,98
-Madrid Barajas (MAD),Stuttgart (STR),128,167
-Madrid Barajas (MAD),Vienna (VIE),154,376
-Munich (MUC),Berlin Brandenburg (BER),58,324
-Munich (MUC),Brussels (BRU),238,359
-Munich (MUC),Budapest Ferenc Liszt (BUD),262,196
-Munich (MUC),Dublin (DUB),169,273
-Munich (MUC),Düsseldorf (DUS),236,201
-Munich (MUC),Frankfurt (FRA),185,322
-Munich (MUC),Geneva (GVA),278,222
-Munich (MUC),London Heathrow (LHR),81,171
-Munich (MUC),Nice Côte d'Azur (NCE),151,265
-Munich (MUC),Václav Havel Prague (PRG),330,177
-Munich (MUC),Vienna (VIE),161,93
-Nice Côte d'Azur (NCE),Barcelona El Prat (BCN),88,271
-Porto Francisco Sá Carneiro (OPO),Madrid Barajas (MAD),215,82
-Oslo Gardermoen (OSL),Paris Charles de Gaulle (CDG),325,249
-Bucharest Henri Coandă (OTP),Paris Charles de Gaulle (CDG),298,242
-Václav Havel Prague (PRG),Rome Fiumicino (FCO),218,220
-Stuttgart (STR),Istanbul (IST),253,355
-Stuttgart (STR),Madrid Barajas (MAD),327,188
-Vienna (VIE),Budapest Ferenc Liszt (BUD),140,195
-Vienna (VIE),Munich (MUC),149,283
-Warsaw Chopin (WAW),Paris Charles de Gaulle (CDG),203,99
+Amsterdam Schiphol (AMS),Stockholm Arlanda (ARN),81,134
+Amsterdam Schiphol (AMS),Paris Charles de Gaulle (CDG),285,76
+Amsterdam Schiphol (AMS),Düsseldorf (DUS),279,59
+Amsterdam Schiphol (AMS),Frankfurt (FRA),115,73
+Amsterdam Schiphol (AMS),Geneva (GVA),260,97
+Amsterdam Schiphol (AMS),Hamburg (HAM),320,74
+Amsterdam Schiphol (AMS),Helsinki Vantaa (HEL),257,162
+Amsterdam Schiphol (AMS),London Heathrow (LHR),168,73
+Amsterdam Schiphol (AMS),Lyon-Saint-Exupéry (LYS),248,101
+Amsterdam Schiphol (AMS),Madrid Barajas (MAD),317,157
+Amsterdam Schiphol (AMS),Manchester (MAN),68,82
+Amsterdam Schiphol (AMS),Porto Francisco Sá Carneiro (OPO),253,168
+Amsterdam Schiphol (AMS),Oslo Gardermoen (OSL),318,119
+Stockholm Arlanda (ARN),Amsterdam Schiphol (AMS),205,134
+Stockholm Arlanda (ARN),Copenhagen (CPH),304,87
+Athens International (ATH),Rome Fiumicino (FCO),220,129
+Athens International (ATH),Istanbul (IST),182,88
+Barcelona El Prat (BCN),Stockholm Arlanda (ARN),242,223
+Barcelona El Prat (BCN),Brussels (BRU),115,128
+Barcelona El Prat (BCN),Dublin (DUB),200,159
+Barcelona El Prat (BCN),Rome Fiumicino (FCO),278,110
+Barcelona El Prat (BCN),Frankfurt (FRA),290,129
+Barcelona El Prat (BCN),Geneva (GVA),222,94
+Barcelona El Prat (BCN),Hamburg (HAM),150,160
+Barcelona El Prat (BCN),Helsinki Vantaa (HEL),302,247
+Barcelona El Prat (BCN),Istanbul (IST),205,216
+Barcelona El Prat (BCN),London Gatwick (LGW),327,130
+Barcelona El Prat (BCN),Lisbon Humberto Delgado (LIS),244,122
+Barcelona El Prat (BCN),Lyon-Saint-Exupéry (LYS),149,87
+Barcelona El Prat (BCN),Manchester (MAN),316,151
+Barcelona El Prat (BCN),Nice Côte d'Azur (NCE),213,83
+Barcelona El Prat (BCN),Paris Orly (ORY),229,109
+Barcelona El Prat (BCN),Oslo Gardermoen (OSL),262,214
+Barcelona El Prat (BCN),Bucharest Henri Coandă (OTP),114,197
+Barcelona El Prat (BCN),Vienna (VIE),273,150
+Barcelona El Prat (BCN),Warsaw Chopin (WAW),175,189
+Berlin Brandenburg (BER),Paris Charles de Gaulle (CDG),187,111
+Berlin Brandenburg (BER),Copenhagen (CPH),70,73
+Budapest Ferenc Liszt (BUD),Frankfurt (FRA),275,109
+Budapest Ferenc Liszt (BUD),Istanbul (IST),115,123
+Budapest Ferenc Liszt (BUD),Vienna (VIE),245,61
+Paris Charles de Gaulle (CDG),Berlin Brandenburg (BER),68,111
+Paris Charles de Gaulle (CDG),Brussels (BRU),79,64
+Paris Charles de Gaulle (CDG),Düsseldorf (DUS),137,75
+Paris Charles de Gaulle (CDG),Rome Fiumicino (FCO),241,130
+Paris Charles de Gaulle (CDG),Frankfurt (FRA),112,80
+Paris Charles de Gaulle (CDG),Helsinki Vantaa (HEL),286,191
+Paris Charles de Gaulle (CDG),London Heathrow (LHR),268,72
+Paris Charles de Gaulle (CDG),Lisbon Humberto Delgado (LIS),48,158
+Paris Charles de Gaulle (CDG),Lyon-Saint-Exupéry (LYS),104,77
+Paris Charles de Gaulle (CDG),Oslo Gardermoen (OSL),235,149
+Paris Charles de Gaulle (CDG),Bucharest Henri Coandă (OTP),45,187
+Paris Charles de Gaulle (CDG),Stuttgart (STR),52,83
+Paris Charles de Gaulle (CDG),Warsaw Chopin (WAW),87,148
+Copenhagen (CPH),Stockholm Arlanda (ARN),299,87
+Copenhagen (CPH),Berlin Brandenburg (BER),124,73
+Dublin (DUB),Munich (MUC),165,151
+Düsseldorf (DUS),London Heathrow (LHR),263,84
+Rome Fiumicino (FCO),Athens International (ATH),238,129
+Rome Fiumicino (FCO),Barcelona El Prat (BCN),191,110
+Rome Fiumicino (FCO),Berlin Brandenburg (BER),238,136
+Rome Fiumicino (FCO),Paris Charles de Gaulle (CDG),96,130
+Rome Fiumicino (FCO),Copenhagen (CPH),155,163
+Rome Fiumicino (FCO),Dublin (DUB),129,190
+Rome Fiumicino (FCO),Edinburgh (EDI),45,194
+Rome Fiumicino (FCO),Frankfurt (FRA),175,119
+Rome Fiumicino (FCO),Helsinki Vantaa (HEL),284,217
+Rome Fiumicino (FCO),Istanbul (IST),175,151
+Rome Fiumicino (FCO),London Heathrow (LHR),196,156
+Rome Fiumicino (FCO),Lyon-Saint-Exupéry (LYS),89,100
+Rome Fiumicino (FCO),Madrid Barajas (MAD),328,147
+Rome Fiumicino (FCO),Manchester (MAN),330,174
+Rome Fiumicino (FCO),Václav Havel Prague (PRG),323,117
+Rome Fiumicino (FCO),Stuttgart (STR),298,107
+Rome Fiumicino (FCO),Vienna (VIE),297,105
+Rome Fiumicino (FCO),Zurich (ZRH),125,98
+Frankfurt (FRA),Amsterdam Schiphol (AMS),207,73
+Frankfurt (FRA),Brussels (BRU),61,68
+Frankfurt (FRA),Budapest Ferenc Liszt (BUD),277,109
+Frankfurt (FRA),Dublin (DUB),302,129
+Frankfurt (FRA),Edinburgh (EDI),143,124
+Frankfurt (FRA),Rome Fiumicino (FCO),111,119
+Frankfurt (FRA),Helsinki Vantaa (HEL),263,163
+Frankfurt (FRA),Istanbul (IST),231,186
+Frankfurt (FRA),London Heathrow (LHR),180,95
+Frankfurt (FRA),Lisbon Humberto Delgado (LIS),57,189
+Frankfurt (FRA),Madrid Barajas (MAD),219,154
+Frankfurt (FRA),Manchester (MAN),214,109
+Frankfurt (FRA),Munich (MUC),322,68
+Frankfurt (FRA),Nice Côte d'Azur (NCE),270,100
+Frankfurt (FRA),Paris Orly (ORY),271,81
+Frankfurt (FRA),Bucharest Henri Coandă (OTP),197,157
+Frankfurt (FRA),Stuttgart (STR),135,57
+Frankfurt (FRA),Vienna (VIE),249,93
+Frankfurt (FRA),Warsaw Chopin (WAW),229,114
+Frankfurt (FRA),Zurich (ZRH),172,67
+Geneva (GVA),Amsterdam Schiphol (AMS),114,97
+Geneva (GVA),Barcelona El Prat (BCN),214,94
+Geneva (GVA),Istanbul (IST),48,191
+Hamburg (HAM),Madrid Barajas (MAD),99,182
+Istanbul (IST),Amsterdam Schiphol (AMS),60,213
+Istanbul (IST),Athens International (ATH),154,88
+Istanbul (IST),Berlin Brandenburg (BER),189,175
+Istanbul (IST),Brussels (BRU),195,210
+Istanbul (IST),Budapest Ferenc Liszt (BUD),157,123
+Istanbul (IST),Copenhagen (CPH),255,197
+Istanbul (IST),Dublin (DUB),66,270
+Istanbul (IST),Düsseldorf (DUS),80,200
+Istanbul (IST),Rome Fiumicino (FCO),305,151
+Istanbul (IST),Geneva (GVA),283,191
+Istanbul (IST),Hamburg (HAM),196,196
+Istanbul (IST),London Gatwick (LGW),104,234
+Istanbul (IST),London Heathrow (LHR),311,236
+Istanbul (IST),Lisbon Humberto Delgado (LIS),222,292
+Istanbul (IST),Lyon-Saint-Exupéry (LYS),310,196
+Istanbul (IST),Manchester (MAN),176,250
+Istanbul (IST),Munich (MUC),297,164
+Istanbul (IST),Nice Côte d'Azur (NCE),68,182
+Istanbul (IST),Paris Orly (ORY),254,216
+Istanbul (IST),Oslo Gardermoen (OSL),147,232
+Istanbul (IST),Bucharest Henri Coandă (OTP),190,78
+Istanbul (IST),Stuttgart (STR),162,179
+Istanbul (IST),Warsaw Chopin (WAW),76,149
+London Heathrow (LHR),Amsterdam Schiphol (AMS),151,73
+London Heathrow (LHR),Stockholm Arlanda (ARN),247,157
+London Heathrow (LHR),Paris Charles de Gaulle (CDG),197,72
+London Heathrow (LHR),Dublin (DUB),113,80
+London Heathrow (LHR),Düsseldorf (DUS),185,84
+London Heathrow (LHR),Rome Fiumicino (FCO),324,156
+London Heathrow (LHR),Frankfurt (FRA),321,95
+London Heathrow (LHR),Istanbul (IST),125,236
+London Heathrow (LHR),Lyon-Saint-Exupéry (LYS),156,103
+London Heathrow (LHR),Madrid Barajas (MAD),237,141
+London Heathrow (LHR),Munich (MUC),293,117
+London Heathrow (LHR),Porto Francisco Sá Carneiro (OPO),235,145
+Lisbon Humberto Delgado (LIS),Paris Charles de Gaulle (CDG),96,158
+Lisbon Humberto Delgado (LIS),Madrid Barajas (MAD),205,84
+Lyon-Saint-Exupéry (LYS),Amsterdam Schiphol (AMS),210,101
+Lyon-Saint-Exupéry (LYS),Barcelona El Prat (BCN),209,87
+Lyon-Saint-Exupéry (LYS),Rome Fiumicino (FCO),329,100
+Madrid Barajas (MAD),Amsterdam Schiphol (AMS),183,157
+Madrid Barajas (MAD),Athens International (ATH),81,228
+Madrid Barajas (MAD),Edinburgh (EDI),274,177
+Madrid Barajas (MAD),Rome Fiumicino (FCO),198,147
+Madrid Barajas (MAD),Frankfurt (FRA),316,154
+Madrid Barajas (MAD),Geneva (GVA),54,123
+Madrid Barajas (MAD),Hamburg (HAM),236,182
+Madrid Barajas (MAD),London Gatwick (LGW),312,138
+Madrid Barajas (MAD),Lisbon Humberto Delgado (LIS),59,84
+Madrid Barajas (MAD),Manchester (MAN),253,155
+Madrid Barajas (MAD),Porto Francisco Sá Carneiro (OPO),283,79
+Madrid Barajas (MAD),Paris Orly (ORY),86,124
+Madrid Barajas (MAD),Bucharest Henri Coandă (OTP),86,234
+Madrid Barajas (MAD),Stuttgart (STR),128,150
+Madrid Barajas (MAD),Vienna (VIE),154,184
+Munich (MUC),Berlin Brandenburg (BER),58,81
+Munich (MUC),Brussels (BRU),238,91
+Munich (MUC),Budapest Ferenc Liszt (BUD),262,89
+Munich (MUC),Dublin (DUB),169,151
+Munich (MUC),Düsseldorf (DUS),236,82
+Munich (MUC),Frankfurt (FRA),185,68
+Munich (MUC),Geneva (GVA),278,83
+Munich (MUC),London Heathrow (LHR),81,117
+Munich (MUC),Nice Côte d'Azur (NCE),151,93
+Munich (MUC),Václav Havel Prague (PRG),330,65
+Munich (MUC),Vienna (VIE),161,72
+Nice Côte d'Azur (NCE),Barcelona El Prat (BCN),88,83
+Porto Francisco Sá Carneiro (OPO),Madrid Barajas (MAD),215,79
+Oslo Gardermoen (OSL),Paris Charles de Gaulle (CDG),325,149
+Bucharest Henri Coandă (OTP),Paris Charles de Gaulle (CDG),298,187
+Václav Havel Prague (PRG),Rome Fiumicino (FCO),218,117
+Stuttgart (STR),Istanbul (IST),253,179
+Stuttgart (STR),Madrid Barajas (MAD),327,150
+Vienna (VIE),Budapest Ferenc Liszt (BUD),140,61
+Vienna (VIE),Munich (MUC),149,72
+Warsaw Chopin (WAW),Paris Charles de Gaulle (CDG),203,148
